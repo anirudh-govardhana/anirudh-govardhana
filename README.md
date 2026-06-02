@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi! I'm Anirudh</h1>
 
-<!--
-**anirudh-govardhana/anirudh-govardhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Developer • AI & Design Enthusiast
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anirudh-govardhana&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>Building thoughtful, and impactful things.</i>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css" /><br/>
+
+<!-- Web & Frameworks -->
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap" /><br/>
+
+<!-- AI / ML -->
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+<img src="https://img.shields.io/badge/Keras-000000?logo=keras&logoColor=white&style=for-the-badge" /><br/>
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" /><br/>
+
+<!-- Tools & Platforms -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,azure" />
+
+</p>
