@@ -32,6 +32,6 @@
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" /><br/>
 
 <!-- Tools & Platforms -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,azure" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,azure,aws" />
 
 </p>
